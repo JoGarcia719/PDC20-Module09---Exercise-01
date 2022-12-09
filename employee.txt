@@ -1,0 +1,1 @@
+[{"id":1,"name":"Juan Dela Cruz","age":23,"salary":5500},{"id":2,"name":"John","age":30,"salary":15000},{"id":3,"name":"Joseph Garcia","age":24,"salary":50000},{"id":4,"name":"Naruto","age":18,"salary":25000},{"id":5,"name":"Sasuke","age":18,"salary":25000}]
